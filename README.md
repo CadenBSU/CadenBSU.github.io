@@ -1,2 +1,4 @@
 # CadenBSU.github.io
-My GitHub page for CS155
+Welcome to my GitHub homepage!\
+<img src="bnuuy.PNG" alt="bunny" width=300px height=auto})>\
+<a href="/about.md">About Me</a>
